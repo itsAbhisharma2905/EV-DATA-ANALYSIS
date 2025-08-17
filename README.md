@@ -1,8 +1,14 @@
 ⚡ Electric Vehicles Data Analysis
-🎯 Project Objective
 
+
+🎯 Project Objective
 The goal of this project is to analyze the adoption and distribution of Electric Vehicles (EVs) across the United States.
 By leveraging Tableau dashboards, the project provides insights into:
+
+
+
+
+
 
 📈 EV growth trends
 
@@ -15,7 +21,6 @@ This analysis helps policy makers, automotive companies, and researchers underst
 👉 EV market penetration, customer preferences, and areas where infrastructure or incentives could accelerate adoption.
 
 📌 Introduction
-
 This project develops a Tableau dashboard to explore EV population data.
 It integrates KPIs, filters, and interactive charts to provide a 360° view of the EV ecosystem, including:
 
@@ -104,4 +109,7 @@ Market Share = Vehicles per Make/Model ÷ Total Vehicles
 ❓ CAFV status unknown for 46% vehicles → highlights data/reporting gap
 
 📸 Dashboard Preview
-![EV Dashboard](VISUALS/Screenshot 2025-08-17 201504.png)
+
+
+<img src="VISUALS/Screenshot 2025-08-17 201504.png" alt="EV Dashboard" width="700">
+
